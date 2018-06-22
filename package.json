@@ -1,0 +1,42 @@
+{
+  "_from": "file:appdynamics-javascript-agent-1.0.0.tar.gz",
+  "_id": "appdynamics-javascript-agent@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-McBzt1/ncOzzIvMJ4pI4BZy7Da2sak4keEqbL5GMOWjU5PqMiSLb+ySu0wt9fPZo2PJhbL4YbpRyc9X01jY0KA==",
+  "_location": "/appdynamics-javascript-agent",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/Users/johnreidy/code/webpack/webpack-demo-appd",
+    "raw": "appdynamics-javascript-agent-1.0.0.tar.gz",
+    "rawSpec": "appdynamics-javascript-agent-1.0.0.tar.gz",
+    "saveSpec": "file:appdynamics-javascript-agent-1.0.0.tar.gz",
+    "fetchSpec": "/Users/johnreidy/code/webpack/webpack-demo-appd/appdynamics-javascript-agent-1.0.0.tar.gz"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "/Users/johnreidy/code/webpack/webpack-demo-appd/appdynamics-javascript-agent-1.0.0.tar.gz",
+  "_spec": "appdynamics-javascript-agent-1.0.0.tar.gz",
+  "_where": "/Users/johnreidy/code/webpack/webpack-demo-appd",
+  "author": {
+    "name": "npm@reidyint.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Appdynamics browser RUM javascript agent",
+  "keywords": [
+    "javascript",
+    "appdynamics",
+    "browser",
+    "client"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "appdynamics-javascript-agent",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
