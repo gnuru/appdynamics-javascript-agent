@@ -8,7 +8,7 @@ npm add appdynamics-javascript-agent
 Require package, specifyinfg the App key and spa2 (Single Page Application support)  flag (true/false).
 
 ```
-require("appdynamics-javascript-agent").loadAgentFromCDN('AD-AAB-AAJ-XVV', true);
+require("appdynamics-javascript-agent").loadAgentFromCDN('AA-BBB-DDD-VVV', true);
 ```
 
 I am not assicated with App Dynamics. This module is based sample injection code from AppDynamics.

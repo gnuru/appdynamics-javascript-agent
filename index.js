@@ -27,7 +27,7 @@ return `var key='`+key+`'; console.log('appdAgent loading');  window['adrum-star
  * will extend to support locally hosted code (e.g. adrum.js)
  */
 exports.mainJSUrl = function(useCDN=true) {
-  return document.localhost.protocol + "//cdn.appdynamics.com/adrum/adrum-latest.js";
+  return '//cdn.appdynamics.com/adrum/adrum-latest.js';
 }
 
 /*

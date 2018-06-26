@@ -1,6 +1,6 @@
 {
   "name": "appdynamics-javascript-agent",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A npm package for the AppDynamics Javascript RUM (Real User Monitoring) agent. ## Usage",
   "main": "index.js",
   "scripts": {
